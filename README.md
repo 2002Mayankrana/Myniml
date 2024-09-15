@@ -1,4 +1,6 @@
-Project Overview This project is a fully functional live e-commerce website built using only frontend technologies: HTML, CSS, and JavaScript. Despite being entirely frontend-based, it is designed to handle up to 50 orders per week effectively.
+Project Overview:
+
+This project is a fully functional live e-commerce website built using only frontend technologies: HTML, CSS, and JavaScript. Despite being entirely frontend-based, it is designed to handle up to 50 orders per week effectively.
 
 KEY FEATURES:
 
